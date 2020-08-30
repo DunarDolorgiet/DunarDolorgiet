@@ -1,7 +1,7 @@
 ## Printers
 | | | |
 |-|-|-|
-| ![](https://github.com/DunarDolorgiet/DunarDolorgiet/raw/master/voron0-1.0.png =130x130)  | VORON0  | Small form format CoreXY FDM printer with a build volume of 120x120x120mm |
+| <img src="https://github.com/DunarDolorgiet/DunarDolorgiet/raw/master/voron0-1.0.png" width=130 />)  | VORON0  | Small form format CoreXY FDM printer with a build volume of 120x120x120mm |
 |![](https://github.com/DunarDolorgiet/DunarDolorgiet/raw/master/voron1-1.8.png =130x130) | VORON1 | Traditional CoreXY FDM printer with a moving bed|
 |![enter image description here](https://github.com/DunarDolorgiet/DunarDolorgiet/raw/master/voron2-2.4.png =130x130) | VORON2 | CoreXY FDM printer with a fixed bed and a moving gantry|
 
