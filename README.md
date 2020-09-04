@@ -10,6 +10,6 @@
 ## Extruders
 | | | | |
 |-|-|-|-|
-| <img src="https://raw.githubusercontent.com/DunarDolorgiet/DunarDolorgiet/master/afterburner.PNG" width=130 /> | [VORON Afterburner](https://github.com/VoronDesign/Voron-Afterburner) | 1.0 | Toolhead with build in direct drive extruder and swapable tool cartrigdes for FDM printers |
-| <img src="https://github.com/DunarDolorgiet/DunarDolorgiet/raw/master/mobius-3.1.png" width=130 />| [Mobius](https://github.com/VoronDesign/Mobius-Extruder) | 3.1 | Extruder for bowden systems |
-| <img src="https://github.com/DunarDolorgiet/DunarDolorgiet/raw/master/jp1-1.0.png" width=130 /> | [JetPack](https://github.com/VoronDesign/Jetpack-Extruder) | 1.0 | Extruder for bowden systems |
+| <img src="https://raw.githubusercontent.com/DunarDolorgiet/DunarDolorgiet/master/afterburner.PNG" width=130 /> | [VORON Afterburner](https://github.com/VoronDesign/Voron-Afterburner) | 1.0 | Toolhead with a build in direct drive extruder and swapable tool cartrigdes for FDM printers. Also includes single and dual bowden variants. The VORON Afterburner is currently used on the V1, V2 and Switchwire. |
+| <img src="https://github.com/DunarDolorgiet/DunarDolorgiet/raw/master/mobius-3.1.png" width=130 />| [VORON Mobius](https://github.com/VoronDesign/Mobius-Extruder) | 3.1 | A classical extruder for bowden systems.  |
+| <img src="https://github.com/DunarDolorgiet/DunarDolorgiet/raw/master/jp1-1.0.png" width=130 /> | [VORON JetPack](https://github.com/VoronDesign/Jetpack-Extruder) | 1.0 | Extruder for bowden systems. Comes in several variants to accomodate different mounting options/use cases. |
